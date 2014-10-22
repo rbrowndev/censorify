@@ -1,0 +1,1 @@
+The censorify package is based on Chapter 3 of 'Node.js, MongoDB and AngularJS Web Development' by Brad Daley.
